@@ -1,4 +1,5 @@
 title: My Statir Test Site
 description: A sample repository for testing the Statir static-site generator.
-baseUrl: ""
-
+visibility: private   # indicates the site is private
+allowed_ips:          # list of IP addresses allowed to access the site
+  - 91.239.7.242
