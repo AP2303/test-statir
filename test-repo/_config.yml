@@ -1,3 +1,79 @@
-title: My Statir Test Site
-description: A sample repository for testing the Statir static-site generator.
+title: Albanian Development Bank
+description: Banka Shqiptare e Zhvillimit — financing infrastructure, SMEs, and sustainable growth across Albania and the Western Balkans.
+base_url: ""
+language: en
 
+author:
+  name: Albanian Development Bank
+  email: info@adb.al
+  url: https://adb.al
+
+theme:
+  name: classic
+  primary_color: "#0a3d62"
+  dark_mode: false
+  logo: /assets/logo.svg
+
+navigation:
+  - name: Home
+    url: /
+  - name: About
+    url: /about.html
+  - name: Governance
+    url: /governance.html
+  - name: Services
+    url: /services/loans.html
+  - name: Projects
+    url: /projects/infrastructure.html
+  - name: News
+    url: /news/2026-04-launch.html
+  - name: Contact
+    url: /contact.html
+
+content:
+  posts_per_page: 10
+  show_drafts: false
+  default_layout: page
+
+build:
+  output_dir: public
+  minify_html: true
+  minify_css: true
+  minify_js: true
+  cache_busting: true
+  fallback_page: /404.html
+
+seo:
+  meta_tags:
+    keywords: "Albanian Development Bank, Banka Shqiptare e Zhvillimit, ADB, infrastructure financing, SME loans, Albania, Western Balkans"
+    author: "Albanian Development Bank"
+  sitemap: true
+  robots_txt: true
+
+social:
+  linkedin: https://www.linkedin.com/company/albanian-development-bank
+  twitter: https://twitter.com/adb_albania
+  facebook: https://facebook.com/adb.albania
+
+analytics:
+  provider: none
+  enable_tracking: false
+
+params:
+  welcome_message: "Welcome to the Albanian Development Bank."
+  support_email: info@adb.al
+  press_email: press@adb.al
+  search_enabled: true
+
+pagination:
+  default_size: 10
+  max_size: 50
+
+redirects:
+  "/loans/": "/services/loans.html"
+  "/sme/": "/services/loans.html"
+  "/press/": "/news/2026-04-launch.html"
+
+meta:
+  last_updated: "2026-05-05"
+  version: "2026.1"

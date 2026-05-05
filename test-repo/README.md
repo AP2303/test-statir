@@ -1,25 +1,39 @@
-# My Statir Test Site
+# Albanian Development Bank
 
-Welcome to **My Statir Test Site** — a sample repository created to test the [Statir](https://statir.osir.com) static-site generator.
+**Banka Shqiptare e Zhvillimit** — financing the infrastructure, businesses, and ideas that build a stronger Albania.
 
-## What's inside
+![ADB](assets/logo.svg)
 
-This repo contains a handful of Markdown pages organized into sections so you can see how Statir turns a folder of `.md` files into a fully navigable static website.
+---
 
-| Section | What it covers |
-|---------|----------------|
-| `guides/` | Getting started and configuration walkthroughs |
-| `api/` | API reference for developers |
-| `changelog.md` | Release history |
+## Who we are
 
-## Quick start
+The Albanian Development Bank (ADB) is a public financial institution established to support long-term economic development across Albania and the Western Balkans. We provide financing, advisory, and partnership services to public bodies, private enterprises, and international institutions working on projects that create lasting value.
 
-1. Push this repository to GitHub (or any Git host).
-2. Open Statir → **Publish a Site**.
-3. Paste the repo URL, choose a layout and hit **Publish**.
-4. Your site will be live in under two seconds. 🚀
+## What we do
 
-## About
+| Pillar | Focus |
+|--------|-------|
+| [Lending](services/loans.html) | Infrastructure, energy, and SME loan programs with concessional terms |
+| [Investments](services/investments.html) | Equity participation in strategic sectors and co-investment funds |
+| [Partnerships](services/partnerships.html) | Joint financing with EIB, EBRD, KfW, IFC, and bilateral agencies |
 
-Built with ❤️ to showcase what Statir can do out of the box — no build tools, no CI pipelines, no config files required.
+## By the numbers
 
+- **€2.4 B** committed across active programs
+- **180+** active financings in industry, energy, transport, and SME sectors
+- **65,000+** jobs supported in 2025
+- **Aa3** rating (Moody's), affirmed March 2026
+
+## Latest
+
+- **2026-04-22** — [Launch of the Green Infrastructure Window](news/2026-04-launch.html)
+- **2026-03-31** — [Q1 2026 Quarterly Report](news/2026-03-quarterly.html)
+
+## Contact
+
+- **General enquiries** — [info@adb.al](mailto:info@adb.al)
+- **Press** — [press@adb.al](mailto:press@adb.al)
+- **Headquarters** — Rruga e Durrësit, Tirana, Albania
+
+[Full contact details →](contact.html)
