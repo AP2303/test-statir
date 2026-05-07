@@ -84,8 +84,8 @@ meta:
   version: "2026.1"
 
 images:
-  - url: /assets/background1.jpg
+  - url: /assets/Development.jpg
     description: "Building resilient infrastructure for Albania's future. The Albanian Development Bank finances transformative projects that strengthen transportation networks, energy systems, water resources, and digital connectivity across the country, driving sustainable economic growth and improving quality of life for communities throughout Albania."
-  - url: /assets/background2.jpg
+  - url: /assets/Improvement.jpg
     description: "Empowering small and medium enterprises across the Western Balkans. We provide tailored financing solutions, strategic partnerships, and investment opportunities that help SMEs scale, innovate, and create jobs. Our programs support entrepreneurship and economic resilience in Albania and neighboring regions."
 
