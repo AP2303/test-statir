@@ -16,17 +16,21 @@ theme:
 
 navigation:
   - name: Home
-    url: /
+    url: /index.html
   - name: About
     url: /about.html
   - name: Governance
     url: /governance.html
   - name: Services
     url: /services/loans.html
+    url1: /services/partnerships.html
+    url2: /services/investmens.html
   - name: Projects
     url: /projects/infrastructure.html
+    url1: /projects/sme.html
   - name: News
     url: /news/2026-04-launch.html
+    url1: /news/2026-03-quarterly.html
   - name: Contact
     url: /contact.html
 
@@ -61,6 +65,7 @@ analytics:
 
 params:
   welcome_message: "Welcome to the Albanian Development Bank."
+  footer_description: "Albanian Development Bank supports resilient infrastructure, SME growth, and sustainable development across Albania and the Western Balkans."
   support_email: info@adb.al
   press_email: press@adb.al
   search_enabled: true

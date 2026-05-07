@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0c2b983-0e6d-498c-895a-c0729452afcc" name="Changes" comment="favicon">
-      <change beforePath="$PROJECT_DIR$/test-repo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-repo/README.md" afterDir="false" />
+    <list default="true" id="b0c2b983-0e6d-498c-895a-c0729452afcc" name="Changes" comment="Add initial project files for Albanian Development Bank website">
+      <change afterPath="$PROJECT_DIR$/test-repo/assets/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/assets/background2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-repo/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test-repo/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/api/reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/assets/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/test-repo/assets/favicon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/assets/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/test-repo/assets/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/changelog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/guides/configuration.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/guides/getting-started.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +21,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="13" />
+    <option name="cachedIndexableFilesCount" value="23" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -70,6 +66,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Zbook/test-statir/test-repo/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +77,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zbook\test-statir\test-repo\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zbook\test-statir" />
     </key>
@@ -100,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772620630662</updated>
       <workItem from="1772620631954" duration="5503000" />
-      <workItem from="1778014894548" duration="835000" />
+      <workItem from="1778014894548" duration="3586000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772636603331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add initial project files for Albanian Development Bank website">
+      <option name="closed" value="true" />
+      <created>1778015783055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778015783055</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +147,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="ips" />
     <MESSAGE value="favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="favicon" />
+    <MESSAGE value="Update site configuration and content for Albanian Development Bank" />
+    <MESSAGE value="Add initial project files for Albanian Development Bank website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial project files for Albanian Development Bank website" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
