@@ -1,0 +1,12 @@
+_meta:
+  title: Users API
+  description: YAML renderer test
+  layout: api
+
+users:
+  - id: 1
+    name: Alice
+    role: admin
+  - id: 2
+    name: Bob
+    role: editor

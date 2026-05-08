@@ -1,0 +1,15 @@
+= Deep Learning Tutorial
+:page-description: AsciiDoc rendering test
+:page-tags: ai,ml,asciidoc
+:page-layout: docs
+:revdate: 2026-05-07
+== Introduction
+This page tests AsciiDoc rendering.
+* Bullet item
+* Another item
+[source,python]
+----
+print("Hello AsciiDoc")
+----
+NOTE: This is a note admonition.
+WARNING: This is a warning admonition.

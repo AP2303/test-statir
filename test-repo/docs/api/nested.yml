@@ -1,0 +1,12 @@
+_meta:
+  title: Nested Data
+  layout: data
+analytics:
+  visitors:
+    daily:
+      monday: 120
+      tuesday: 180
+countries:
+  - Albania
+  - Germany
+  - Japan

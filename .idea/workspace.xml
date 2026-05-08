@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0c2b983-0e6d-498c-895a-c0729452afcc" name="Changes" comment="Add background images and descriptions for Albanian Development Bank website">
-      <change beforePath="$PROJECT_DIR$/.idea/copilotDiffState.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b0c2b983-0e6d-498c-895a-c0729452afcc" name="Changes" comment="Update background images and descriptions for Albanian Development Bank website">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/docs/api/auth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/docs/api/users.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/docs/frontend/component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/docs/frontend/dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/docs/html/fragment.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/docs/html/landing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/index-D_ZM13UK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-repo/index-ueMTNSlK.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-repo/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test-repo/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/assets/background1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/test-repo/assets/Development.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-repo/assets/background2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/test-repo/assets/Improvement.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +27,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="23" />
+    <option name="cachedIndexableFilesCount" value="42" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -67,18 +72,21 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Zbook/test-statir/test-repo/assets",
+    "last_opened_file_path": "C:/Users/Zbook/test-statir/test-repo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\Zbook\\AppData\\Roaming\\JetBrains\\IntelliJIdea2026.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zbook\test-statir\test-repo" />
+      <recent name="C:\Users\Zbook\test-statir" />
       <recent name="C:\Users\Zbook\test-statir\test-repo\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -101,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772620630662</updated>
       <workItem from="1772620631954" duration="5503000" />
-      <workItem from="1778014894548" duration="6972000" />
+      <workItem from="1778014894548" duration="13185000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -151,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778150688480</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update background images and descriptions for Albanian Development Bank website">
+      <option name="closed" value="true" />
+      <created>1778162204984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778162204984</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +184,8 @@
     <MESSAGE value="Add initial project files for Albanian Development Bank website" />
     <MESSAGE value="Update site configuration and add new navigation links for Albanian Development Bank" />
     <MESSAGE value="Add background images and descriptions for Albanian Development Bank website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add background images and descriptions for Albanian Development Bank website" />
+    <MESSAGE value="Update background images and descriptions for Albanian Development Bank website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update background images and descriptions for Albanian Development Bank website" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

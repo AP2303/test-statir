@@ -31,6 +31,14 @@ navigation:
   - name: News
     url: /news/2026-04-launch.html
     url1: /news/2026-03-quarterly.html
+  - name: Docs
+    url: /docs/html/landing.html
+    url1: /docs/api/users.html
+    url2: /docs/frontend/dashboard.html
+  - name: Tutorials
+    url: /tutorials/deep-learning.html
+    url1: /tutorials/python-notes.html
+    url2: /tutorials/notebook.html
   - name: Contact
     url: /contact.html
 

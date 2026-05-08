@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/test-repo/_config.yml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/test-repo/_config.yml" />
+              <option name="originalContent" value="title: Albanian Development Bank&#10;description: Banka Shqiptare e Zhvillimit — financing infrastructure, SMEs, and sustainable growth across Albania and the Western Balkans.&#10;base_url: &quot;&quot;&#10;language: en&#10;&#10;author:&#10;  name: Albanian Development Bank&#10;  email: info@adb.al&#10;  url: https://adb.al&#10;&#10;theme:&#10;  name: classic&#10;  primary_color: &quot;#0a3d62&quot;&#10;  dark_mode: false&#10;  logo: /assets/logo.svg&#10;&#10;navigation:&#10;  - name: Home&#10;    url: /index.html&#10;  - name: About&#10;    url: /about.html&#10;  - name: Governance&#10;    url: /governance.html&#10;  - name: Services&#10;    url: /services/loans.html&#10;    url1: /services/partnerships.html&#10;    url2: /services/investmens.html&#10;  - name: Projects&#10;    url: /projects/infrastructure.html&#10;    url1: /projects/sme.html&#10;  - name: News&#10;    url: /news/2026-04-launch.html&#10;    url1: /news/2026-03-quarterly.html&#10;  - name: Contact&#10;    url: /contact.html&#10;&#10;content:&#10;  posts_per_page: 10&#10;  show_drafts: false&#10;  default_layout: page&#10;&#10;build:&#10;  output_dir: public&#10;  minify_html: true&#10;  minify_css: true&#10;  minify_js: true&#10;  cache_busting: true&#10;  fallback_page: /404.html&#10;&#10;seo:&#10;  meta_tags:&#10;    keywords: &quot;Albanian Development Bank, Banka Shqiptare e Zhvillimit, ADB, infrastructure financing, SME loans, Albania, Western Balkans&quot;&#10;    author: &quot;Albanian Development Bank&quot;&#10;  sitemap: true&#10;  robots_txt: true&#10;&#10;social:&#10;  linkedin: https://www.linkedin.com/company/albanian-development-bank&#10;  twitter: https://twitter.com/adb_albania&#10;  facebook: https://facebook.com/adb.albania&#10;&#10;analytics:&#10;  provider: none&#10;  enable_tracking: false&#10;&#10;params:&#10;  welcome_message: &quot;Welcome to the Albanian Development Bank.&quot;&#10;  footer_description: &quot;Albanian Development Bank supports resilient infrastructure, SME growth, and sustainable development across Albania and the Western Balkans.&quot;&#10;  support_email: info@adb.al&#10;  press_email: press@adb.al&#10;  search_enabled: true&#10;&#10;pagination:&#10;  default_size: 10&#10;  max_size: 50&#10;&#10;redirects:&#10;  &quot;/loans/&quot;: &quot;/services/loans.html&quot;&#10;  &quot;/sme/&quot;: &quot;/services/loans.html&quot;&#10;  &quot;/press/&quot;: &quot;/news/2026-04-launch.html&quot;&#10;&#10;meta:&#10;  last_updated: &quot;2026-05-05&quot;&#10;  version: &quot;2026.1&quot;&#10;&#10;images:&#10;  - url: /assets/Development.jpg&#10;    description: &quot;Building resilient infrastructure for Albania's future. The Albanian Development Bank finances transformative projects that strengthen transportation networks, energy systems, water resources, and digital connectivity across the country, driving sustainable economic growth and improving quality of life for communities throughout Albania.&quot;&#10;  - url: /assets/Improvement.jpg&#10;    description: &quot;Empowering small and medium enterprises across the Western Balkans. We provide tailored financing solutions, strategic partnerships, and investment opportunities that help SMEs scale, innovate, and create jobs. Our programs support entrepreneurship and economic resilience in Albania and neighboring regions.&quot;&#10;&#10;" />
+              <option name="updatedContent" value="title: Albanian Development Bank&#10;description: Banka Shqiptare e Zhvillimit — financing infrastructure, SMEs, and sustainable growth across Albania and the Western Balkans.&#10;base_url: &quot;&quot;&#10;language: en&#10;&#10;author:&#10;  name: Albanian Development Bank&#10;  email: info@adb.al&#10;  url: https://adb.al&#10;&#10;theme:&#10;  name: classic&#10;  primary_color: &quot;#0a3d62&quot;&#10;  dark_mode: false&#10;  logo: /assets/logo.svg&#10;&#10;navigation:&#10;  - name: Home&#10;    url: /index.html&#10;  - name: About&#10;    url: /about.html&#10;  - name: Governance&#10;    url: /governance.html&#10;  - name: Services&#10;    url: /services/loans.html&#10;    url1: /services/partnerships.html&#10;    url2: /services/investmens.html&#10;  - name: Projects&#10;    url: /projects/infrastructure.html&#10;    url1: /projects/sme.html&#10;  - name: News&#10;    url: /news/2026-04-launch.html&#10;    url1: /news/2026-03-quarterly.html&#10;  - name: Docs&#10;    url: /docs/html/landing.html&#10;    url1: /docs/api/users.html&#10;    url2: /docs/frontend/dashboard.html&#10;  - name: Tutorials&#10;    url: /tutorials/deep-learning.html&#10;    url1: /tutorials/python-notes.html&#10;    url2: /tutorials/notebook.html&#10;  - name: Contact&#10;    url: /contact.html&#10;&#10;content:&#10;  posts_per_page: 10&#10;  show_drafts: false&#10;  default_layout: page&#10;&#10;build:&#10;  output_dir: public&#10;  minify_html: true&#10;  minify_css: true&#10;  minify_js: true&#10;  cache_busting: true&#10;  fallback_page: /404.html&#10;&#10;seo:&#10;  meta_tags:&#10;    keywords: &quot;Albanian Development Bank, Banka Shqiptare e Zhvillimit, ADB, infrastructure financing, SME loans, Albania, Western Balkans&quot;&#10;    author: &quot;Albanian Development Bank&quot;&#10;  sitemap: true&#10;  robots_txt: true&#10;&#10;social:&#10;  linkedin: https://www.linkedin.com/company/albanian-development-bank&#10;  twitter: https://twitter.com/adb_albania&#10;  facebook: https://facebook.com/adb.albania&#10;&#10;analytics:&#10;  provider: none&#10;  enable_tracking: false&#10;&#10;params:&#10;  welcome_message: &quot;Welcome to the Albanian Development Bank.&quot;&#10;  footer_description: &quot;Albanian Development Bank supports resilient infrastructure, SME growth, and sustainable development across Albania and the Western Balkans.&quot;&#10;  support_email: info@adb.al&#10;  press_email: press@adb.al&#10;  search_enabled: true&#10;&#10;pagination:&#10;  default_size: 10&#10;  max_size: 50&#10;&#10;redirects:&#10;  &quot;/loans/&quot;: &quot;/services/loans.html&quot;&#10;  &quot;/sme/&quot;: &quot;/services/loans.html&quot;&#10;  &quot;/press/&quot;: &quot;/news/2026-04-launch.html&quot;&#10;&#10;meta:&#10;  last_updated: &quot;2026-05-05&quot;&#10;  version: &quot;2026.1&quot;&#10;&#10;images:&#10;  - url: /assets/Development.jpg&#10;    description: &quot;Building resilient infrastructure for Albania's future. The Albanian Development Bank finances transformative projects that strengthen transportation networks, energy systems, water resources, and digital connectivity across the country, driving sustainable economic growth and improving quality of life for communities throughout Albania.&quot;&#10;  - url: /assets/Improvement.jpg&#10;    description: &quot;Empowering small and medium enterprises across the Western Balkans. We provide tailored financing solutions, strategic partnerships, and investment opportunities that help SMEs scale, innovate, and create jobs. Our programs support entrepreneurship and economic resilience in Albania and neighboring regions.&quot;&#10;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-repo/docs/api/users.yaml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/test-repo/docs/api/users.yaml" />
+              <option name="updatedContent" value="_meta:&#10;  title: Users API&#10;  description: YAML renderer test&#10;  layout: api&#10;&#10;users:&#10;  - id: 1&#10;    name: Alice&#10;    role: admin&#10;  - id: 2&#10;    name: Bob&#10;    role: editor" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-repo/docs/frontend/component.jsx">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/test-repo/docs/frontend/component.jsx" />
+              <option name="updatedContent" value="/* ---&#10;title: React Component&#10;description: JSX source rendering&#10;layout: code&#10;--- */&#10;&#10;export default function Button() {&#10;return ( &lt;button className=&quot;primary&quot;&gt;&#10;Click Me &lt;/button&gt;&#10;);&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-repo/docs/frontend/dashboard.tsx">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/test-repo/docs/frontend/dashboard.tsx" />
+              <option name="updatedContent" value="/* ---&#10;title: Dashboard TSX&#10;description: TSX rendering test&#10;layout: code&#10;language: tsx&#10;--- */&#10;&#10;type User = {&#10;id: number;&#10;name: string;&#10;};&#10;&#10;export default function Dashboard() {&#10;const users: User[] = [&#10;{ id: 1, name: &quot;John&quot; }&#10;];&#10;&#10;return ( &lt;div&gt; &lt;h1&gt;Dashboard&lt;/h1&gt; &lt;/div&gt;&#10;);&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-repo/docs/html/fragment.htm">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/test-repo/docs/html/fragment.htm" />
+              <option name="updatedContent" value="&lt;!-- ---&#10;title: HTML Fragment&#10;layout: docs&#10;--- --&gt;&#10;&#10;&lt;h2&gt;Fragment Content&lt;/h2&gt;&#10;&#10;&lt;p&gt;This is an HTML fragment without body/html tags.&lt;/p&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-repo/docs/html/landing.html">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/test-repo/docs/html/landing.html" />
+              <option name="updatedContent" value="&lt;!-- ---&#10;title: Marketing Landing&#10;description: HTML rendering test&#10;layout: marketing&#10;--- --&gt;&#10;&#10;&lt;!DOCTYPE html&gt;&#10;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;meta name=&quot;statir-tags&quot; content=&quot;html,marketing&quot;&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#10;&lt;h1&gt;Landing Page&lt;/h1&gt;&#10;&#10;&lt;p&gt;This page tests HTML rendering.&lt;/p&gt;&#10;&#10;&lt;button onclick=&quot;alert('xss')&quot;&gt;Unsafe Button&lt;/button&gt;&#10;&#10;&lt;a href=&quot;javascript:alert('xss')&quot;&gt;Unsafe Link&lt;/a&gt;&#10;&#10;&lt;script&gt;&#10;alert(&quot;remove me&quot;);&#10;&lt;/script&gt;&#10;&#10;&lt;table&gt;&#10;&lt;tr&gt;&#10;&lt;td&gt;Feature&lt;/td&gt;&#10;&lt;td&gt;Supported&lt;/td&gt;&#10;&lt;/tr&gt;&#10;&lt;tr&gt;&#10;&lt;td&gt;HTML&lt;/td&gt;&#10;&lt;td&gt;Yes&lt;/td&gt;&#10;&lt;/tr&gt;&#10;&lt;/table&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
