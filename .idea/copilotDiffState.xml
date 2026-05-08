@@ -44,14 +44,6 @@
             </PendingDiffInfo>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/test-repo/docs/html/landing.html">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/test-repo/docs/html/landing.html" />
-              <option name="updatedContent" value="&lt;!-- ---&#10;title: Marketing Landing&#10;description: HTML rendering test&#10;layout: marketing&#10;--- --&gt;&#10;&#10;&lt;!DOCTYPE html&gt;&#10;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;meta name=&quot;statir-tags&quot; content=&quot;html,marketing&quot;&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#10;&lt;h1&gt;Landing Page&lt;/h1&gt;&#10;&#10;&lt;p&gt;This page tests HTML rendering.&lt;/p&gt;&#10;&#10;&lt;button onclick=&quot;alert('xss')&quot;&gt;Unsafe Button&lt;/button&gt;&#10;&#10;&lt;a href=&quot;javascript:alert('xss')&quot;&gt;Unsafe Link&lt;/a&gt;&#10;&#10;&lt;script&gt;&#10;alert(&quot;remove me&quot;);&#10;&lt;/script&gt;&#10;&#10;&lt;table&gt;&#10;&lt;tr&gt;&#10;&lt;td&gt;Feature&lt;/td&gt;&#10;&lt;td&gt;Supported&lt;/td&gt;&#10;&lt;/tr&gt;&#10;&lt;tr&gt;&#10;&lt;td&gt;HTML&lt;/td&gt;&#10;&lt;td&gt;Yes&lt;/td&gt;&#10;&lt;/tr&gt;&#10;&lt;/table&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
       </map>
     </option>
   </component>

@@ -5,37 +5,271 @@ layout: marketing
 --- -->
 
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="statir-tags" content="html,marketing">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketing Landing Page</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+
+        body{
+            background:#f4f7fb;
+            color:#222;
+            line-height:1.6;
+        }
+
+        header{
+            background:linear-gradient(135deg,#2563eb,#1e40af);
+            color:white;
+            padding:80px 20px;
+            text-align:center;
+        }
+
+        header h1{
+            font-size:55px;
+            margin-bottom:20px;
+        }
+
+        header p{
+            max-width:700px;
+            margin:auto;
+            font-size:18px;
+        }
+
+        .btn{
+            display:inline-block;
+            margin-top:30px;
+            padding:14px 30px;
+            background:white;
+            color:#1e40af;
+            text-decoration:none;
+            border-radius:8px;
+            font-weight:bold;
+            transition:0.3s;
+        }
+
+        .btn:hover{
+            background:#dbeafe;
+        }
+
+        section{
+            padding:70px 10%;
+        }
+
+        .features{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+            gap:25px;
+            margin-top:40px;
+        }
+
+        .card{
+            background:white;
+            padding:30px;
+            border-radius:15px;
+            box-shadow:0 5px 15px rgba(0,0,0,0.08);
+            transition:0.3s;
+        }
+
+        .card:hover{
+            transform:translateY(-5px);
+        }
+
+        .card h3{
+            margin-bottom:15px;
+            color:#2563eb;
+        }
+
+        .about{
+            background:white;
+            border-radius:20px;
+            padding:50px;
+            box-shadow:0 5px 20px rgba(0,0,0,0.08);
+        }
+
+        table{
+            width:100%;
+            border-collapse:collapse;
+            margin-top:30px;
+        }
+
+        table th,
+        table td{
+            border:1px solid #ddd;
+            padding:15px;
+            text-align:left;
+        }
+
+        table th{
+            background:#2563eb;
+            color:white;
+        }
+
+        footer{
+            background:#111827;
+            color:white;
+            text-align:center;
+            padding:30px;
+            margin-top:50px;
+        }
+
+        @media(max-width:768px){
+            header h1{
+                font-size:38px;
+            }
+
+            section{
+                padding:50px 20px;
+            }
+        }
+    </style>
 </head>
+
 <body>
 
-<h1>Landing Page</h1>
+<header>
+    <h1>Modern Marketing Landing Page</h1>
 
-<p>This page tests HTML rendering.</p>
+    <p>
+        Welcome to our professional landing page designed for businesses,
+        startups, and digital products. Fast, responsive, and clean UI
+        built only with HTML and CSS.
+    </p>
 
-<button onclick="alert('xss')">Unsafe Button</button>
+    <a href="#features" class="btn">Get Started</a>
+</header>
 
-<a href="javascript:alert('xss')">Unsafe Link</a>
+<section id="features">
+    <h2>Our Features</h2>
 
-<script>
-alert("remove me");
-</script>
+    <div class="features">
 
-<table>
-<tr>
-<td>Feature</td>
-<td>Supported</td>
-</tr>
-<tr>
-<td>HTML</td>
-<td>Yes</td>
-</tr>
-</table>
+        <div class="card">
+            <h3>Responsive Design</h3>
+            <p>
+                Fully optimized for desktop, tablet, and mobile devices
+                with smooth layouts and clean structure.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Fast Performance</h3>
+            <p>
+                Lightweight and optimized code that loads quickly and
+                improves user experience.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Secure Structure</h3>
+            <p>
+                Unsafe scripts and malicious links have been removed
+                for better security and cleaner rendering.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Modern UI</h3>
+            <p>
+                Elegant sections, cards, buttons, and spacing
+                inspired by modern SaaS websites.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<section>
+    <div class="about">
+        <h2>About This Project</h2>
+
+        <p>
+            This landing page was created as an upgraded version
+            of a simple HTML rendering test. It now includes:
+        </p>
+
+        <ul style="margin-top:20px; padding-left:20px;">
+            <li>Custom CSS styling</li>
+            <li>Responsive layout</li>
+            <li>Improved typography</li>
+            <li>Feature cards</li>
+            <li>Secure HTML structure</li>
+            <li>Professional design sections</li>
+        </ul>
+
+        <table>
+            <tr>
+                <th>Feature</th>
+                <th>Status</th>
+            </tr>
+
+            <tr>
+                <td>HTML Structure</td>
+                <td>Supported</td>
+            </tr>
+
+            <tr>
+                <td>Responsive CSS</td>
+                <td>Enabled</td>
+            </tr>
+
+            <tr>
+                <td>Security Cleanup</td>
+                <td>Completed</td>
+            </tr>
+
+            <tr>
+                <td>Modern Layout</td>
+                <td>Included</td>
+            </tr>
+        </table>
+    </div>
+</section>
+
+<section>
+    <h2>Why Choose Us?</h2>
+
+    <div class="features">
+
+        <div class="card">
+            <h3>Easy To Customize</h3>
+            <p>
+                Modify colors, texts, sections, and layout easily
+                without needing advanced frameworks.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>SEO Friendly</h3>
+            <p>
+                Clean semantic HTML structure helps search engines
+                understand and rank your content better.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Professional Appearance</h3>
+            <p>
+                Designed to look modern and attractive for clients
+                and visitors.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<footer>
+    <p>
+        © 2026 Marketing Landing Page | Built with HTML & CSS
+    </p>
+</footer>
 
 </body>
 </html>
-
